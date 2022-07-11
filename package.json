@@ -4,6 +4,7 @@
 	"description": "A project for learning backend certification on freecodecamp",
 	"keywords": [ "descriptive", "related", "words" ],
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
