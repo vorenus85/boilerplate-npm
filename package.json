@@ -3,6 +3,7 @@
 	"author": "Janos Perge",
 	"description": "A project for learning backend certification on freecodecamp",
 	"keywords": [ "descriptive", "related", "words" ],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
